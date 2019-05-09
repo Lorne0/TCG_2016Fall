@@ -1,0 +1,17 @@
+* 10:11pm February 17, 2017
+* Player1(B02902030) vs Player2(B02902051)
+* 1 2 2 2 2 2 5 1 2 2 2 2 2 5
+* X X X X
+* X X X X
+* X X X X
+* X X X X
+* X X X X
+* X X X X
+* X X X X
+* X X X X
+* first 0
+* time 100
+* 1. b7(P) a1(N)
+* Comment 0 0
+0. 1484662246812
+1. 1484662246859

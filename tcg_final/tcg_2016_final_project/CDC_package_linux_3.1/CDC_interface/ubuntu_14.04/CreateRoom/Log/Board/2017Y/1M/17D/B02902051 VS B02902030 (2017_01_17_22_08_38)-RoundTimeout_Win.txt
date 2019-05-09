@@ -1,0 +1,17 @@
+* 10:06pm Jan 17  2017
+* B02902051 vs B02902030
+* 1 2 2 2 2 2 5 1 2 2 2 2 2 5
+* X X X X
+* X X X X
+* X X X X
+* X X X X
+* X X X X
+* X X X X
+* X X X X
+* X X X X
+* first 1
+* time 100
+* 1. d4(g)
+* B02902051 wins
+* Comment 0 0
+0. 1484662018203

@@ -1,0 +1,1031 @@
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 3 ,  PlayTime : 3  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 1  )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 1 ,  PlayTime : 2  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 2 ,  PlayTime : 3  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 2  )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 1 ,  Draw : 1 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 1 ,  Draw : 2 ,  PlayTime : 3  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (16 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 3 ,  PlayTime : 3  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 4 ,  PlayTime : 4  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 2  )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 4 ,  PlayTime : 5  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 1 ,  Draw : 5 ,  PlayTime : 6  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 1 ,  Draw : 6 ,  PlayTime : 7  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 1 ,  Draw : 7 ,  PlayTime : 8  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 1 ,  Draw : 8 ,  PlayTime : 9  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 1 ,  Draw : 9 ,  PlayTime : 10  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 1 ,  Draw : 10 ,  PlayTime : 11  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 1 ,  Draw : 11 ,  PlayTime : 12  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 1 ,  Draw : 12 ,  PlayTime : 13  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 1 ,  Draw : 13 ,  PlayTime : 14  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 3 ,  PlayTime : 3  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 4 ,  PlayTime : 4  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 5 ,  PlayTime : 5  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 2  )
+ ## Win : 1 ,   Lose : 0 ,  Draw : 5 ,  PlayTime : 6  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 1 ,   Lose : 0 ,  Draw : 6 ,  PlayTime : 7  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 1 ,   Lose : 0 ,  Draw : 7 ,  PlayTime : 8  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 1 ,   Lose : 0 ,  Draw : 8 ,  PlayTime : 9  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 1 ,   Lose : 0 ,  Draw : 9 ,  PlayTime : 10  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 2 ,   Lose : 0 ,  Draw : 9 ,  PlayTime : 11  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 2 ,   Lose : 0 ,  Draw : 10 ,  PlayTime : 12  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 2 ,   Lose : 0 ,  Draw : 11 ,  PlayTime : 13  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 2 ,   Lose : 0 ,  Draw : 12 ,  PlayTime : 14  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 2 ,   Lose : 0 ,  Draw : 13 ,  PlayTime : 15  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 2 ,   Lose : 0 ,  Draw : 14 ,  PlayTime : 16  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 2 ,   Lose : 0 ,  Draw : 15 ,  PlayTime : 17  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 2 ,   Lose : 0 ,  Draw : 16 ,  PlayTime : 18  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 2 ,   Lose : 0 ,  Draw : 17 ,  PlayTime : 19  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 2 ,   Lose : 0 ,  Draw : 18 ,  PlayTime : 20  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 3 ,  PlayTime : 3  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 4 ,  PlayTime : 4  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 5 ,  PlayTime : 5  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 6 ,  PlayTime : 6  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 7 ,  PlayTime : 7  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+ Player1 Move.txt Error，Player2 Win!!, I am Player1
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Player2 Move.txt Error，Player1 Win!!, I am Player2
+ ## Win : 0 ,   Lose : 2 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+
+ Player1 Move.txt Error，Player2 Win!!, I am Player1
+ ## Win : 0 ,   Lose : 3 ,  Draw : 0 ,  PlayTime : 3  ## 
+
+
+ Player1 Move.txt Error，Player2 Win!!, I am Player1
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Player2 Move.txt Error，Player1 Win!!, I am Player2
+ ## Win : 0 ,   Lose : 2 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+
+ Player1 Move.txt Error，Player2 Win!!, I am Player1
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Player2 Move.txt Error，Player1 Win!!, I am Player2
+ ## Win : 0 ,   Lose : 2 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+
+  Player1 timeout.  Player2 Win!!, I am Player1
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+  Player1 timeout.  Player2 Win!!, I am Player1
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+  Player1 timeout.  Player2 Win!!, I am Player1
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Player2 timeout.  Player1 Win, I am Player2
+ ## Win : 0 ,   Lose : 2 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+
+  Player1 timeout.  Player2 Win!!, I am Player1
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Player1 Move.txt Error，Player2 Win!!, I am Player1
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Player2 Move.txt Error，Player1 Win!!, I am Player2
+ ## Win : 0 ,   Lose : 2 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 3 ,  PlayTime : 3  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 4 ,  PlayTime : 4  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 5 ,  PlayTime : 5  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 6 ,  PlayTime : 6  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 3 ,  PlayTime : 3  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 4 ,  PlayTime : 4  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 5 ,  PlayTime : 5  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 6 ,  PlayTime : 6  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 7 ,  PlayTime : 7  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 3 ,  PlayTime : 3  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 3 ,  PlayTime : 3  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 3 ,  PlayTime : 3  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 4 ,  PlayTime : 4  ## 
+
+
+ Player1 Move.txt Error，Player2 Win!!, I am Player1
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Player2 Move.txt Error，Player1 Win!!, I am Player2
+ ## Win : 0 ,   Lose : 2 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+
+ Player1 Move.txt Error，Player2 Win!!, I am Player1
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+  Player1 timeout.  Player2 Win!!, I am Player1
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Player1 Move.txt Error，Player2 Win!!, I am Player1
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Player2 Move.txt Error，Player1 Win!!, I am Player2
+ ## Win : 0 ,   Lose : 2 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+
+ Player1 Move.txt Error，Player2 Win!!, I am Player1
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Player2 Move.txt Error，Player1 Win!!, I am Player2
+ ## Win : 0 ,   Lose : 2 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+
+ Player1 Move.txt Error，Player2 Win!!, I am Player1
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Player2 Move.txt Error，Player1 Win!!, I am Player2
+ ## Win : 0 ,   Lose : 2 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 2  )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 2 ,  PlayTime : 3  ## 
+
+
+  Player1 timeout.  Player2 Win!!, I am Player1
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 2  )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 1  )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 2  )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 1 ,  PlayTime : 2  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 2 ,  PlayTime : 3  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 1 ,  Draw : 3 ,  PlayTime : 4  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 4 ,  PlayTime : 5  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 5 ,  PlayTime : 6  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 6 ,  PlayTime : 7  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 7 ,  PlayTime : 8  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 8 ,  PlayTime : 9  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 1  )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 8 ,  PlayTime : 10  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 9 ,  PlayTime : 11  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 10 ,  PlayTime : 12  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 11 ,  PlayTime : 13  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 12 ,  PlayTime : 14  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 13 ,  PlayTime : 15  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 14 ,  PlayTime : 16  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 15 ,  PlayTime : 17  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 1  )
+ ## Win : 0 ,   Lose : 3 ,  Draw : 15 ,  PlayTime : 18  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 3 ,  Draw : 16 ,  PlayTime : 19  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 3 ,  Draw : 17 ,  PlayTime : 20  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 2  )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 1  )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 1 ,  PlayTime : 3  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 3 ,  PlayTime : 3  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 4 ,  PlayTime : 4  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 5 ,  PlayTime : 5  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 1  )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 5 ,  PlayTime : 6  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 6 ,  PlayTime : 7  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 7 ,  PlayTime : 8  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 8 ,  PlayTime : 9  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 9 ,  PlayTime : 10  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 10 ,  PlayTime : 11  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 11 ,  PlayTime : 12  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 12 ,  PlayTime : 13  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 13 ,  PlayTime : 14  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 2  )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 13 ,  PlayTime : 15  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 14 ,  PlayTime : 16  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 15 ,  PlayTime : 17  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 16 ,  PlayTime : 18  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 17 ,  PlayTime : 19  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 18 ,  PlayTime : 20  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 1 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 2  )
+ ## Win : 2 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 3 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 3  ## 
+
+
+ Player2 timeout.  Player1 Win, I am Player2
+ ## Win : 3 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 4  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 3 ,   Lose : 1 ,  Draw : 1 ,  PlayTime : 5  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 3 ,  PlayTime : 3  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 1  )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 3 ,  PlayTime : 4  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 4 ,  PlayTime : 5  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 2  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 3 ,  PlayTime : 3  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 0 ,   Lose : 0 ,  Draw : 4 ,  PlayTime : 4  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 1 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 2  )
+ ## Win : 2 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 1,  WinLoseFlag : 3 )
+ ## Win : 2 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 3  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 2  )
+ ## Win : 3 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 4  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 4 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 5  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 2  )
+ ## Win : 5 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 6  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 1 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 2  )
+ ## Win : 2 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 1 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 2  )
+ ## Win : 2 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 3 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 3  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 2  )
+ ## Win : 4 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 4  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 5 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 5  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 2  )
+ ## Win : 6 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 6  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 7 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 7  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 2  )
+ ## Win : 8 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 8  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 9 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 9  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 9 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 10  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 1 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 1 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 2  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 2 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 3  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 2  )
+ ## Win : 3 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 4  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 4 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 5  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 4 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 6  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 5 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 7  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 2  )
+ ## Win : 6 ,   Lose : 0 ,  Draw : 2 ,  PlayTime : 8  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 1 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 2  )
+ ## Win : 2 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 3 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 3  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 2  )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 1 ,  Draw : 1 ,  PlayTime : 2  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 2  )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 1 ,  PlayTime : 3  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 1  )
+ ## Win : 0 ,   Lose : 3 ,  Draw : 1 ,  PlayTime : 4  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 2  )
+ ## Win : 0 ,   Lose : 4 ,  Draw : 1 ,  PlayTime : 5  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 1  )
+ ## Win : 0 ,   Lose : 5 ,  Draw : 1 ,  PlayTime : 6  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 2  )
+ ## Win : 0 ,   Lose : 6 ,  Draw : 1 ,  PlayTime : 7  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 1  )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 1 ,  PlayTime : 2  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 2  )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 1  )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 1 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 2  )
+ ## Win : 2 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 2  )
+ ## Win : 1 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 2  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 2  )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+ Normal End ( PlayerNum : 2,  WinLoseFlag : 1  )
+ ## Win : 0 ,   Lose : 2 ,  Draw : 0 ,  PlayTime : 2  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 1  ## 
+
+
+ Player2 have no legal moves  Player1 Win, I am Player2
+ Player1 無合法步  Player2獲勝, 我是Player2
+ ## Win : 0 ,   Lose : 1 ,  Draw : 1 ,  PlayTime : 2  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 1  )
+ ## Win : 1 ,   Lose : 0 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+ 
+Both no capturing, revealing for 60 plies. The game is judged as a draw!
+
+ ( PlayerNum : 2,  WinLoseFlag : 3 )
+ ## Win : 1 ,   Lose : 0 ,  Draw : 1 ,  PlayTime : 2  ## 
+
+
+ Normal End ( PlayerNum : 1,  WinLoseFlag : 2  )
+ ## Win : 0 ,   Lose : 1 ,  Draw : 0 ,  PlayTime : 1  ## 
+
+
+  3 times of repetitions (4 ply cycle) ，The game is judged as a draw!
+ ## Win : 0 ,   Lose : 1 ,  Draw : 1 ,  PlayTime : 2  ## 
+
